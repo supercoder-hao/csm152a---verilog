@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haoxu/Downloads/4bit_counter/4bit_counter/clk_1m_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_1m_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haoxu/Downloads/4bit_counter/4bit_counter/clock_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haoxu/Documents/m152a/4bit_counter/4bit_counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

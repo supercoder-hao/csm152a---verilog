@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+At time                    0, out = 4'bxxxx
+At time                15000, out = 4'b0000
+At time                25000, out = 4'b0001
+At time                35000, out = 4'b0010
+At time                45000, out = 4'b0011
+At time                55000, out = 4'b0100
+At time                65000, out = 4'b0101
+At time                75000, out = 4'b0110
+At time                85000, out = 4'b0111
+At time                95000, out = 4'b1000
+At time               105000, out = 4'b1001
+At time               115000, out = 4'b1010
+At time               125000, out = 4'b1011
+$finish called at time : 130 ns : File "C:/Users/haoxu/Downloads/4bit_counter/4bit_counter/counter_tb.v" Line 59

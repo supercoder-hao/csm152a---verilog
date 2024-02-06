@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Jan 16 12:35:53 2024
+# Process ID: 17788
+# Current directory: C:/Users/haoxu/Documents/m152a/counter/4bit_counter.runs/impl_1
+# Command line: vivado.exe -log clk_1m_1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source clk_1m_1.tcl -notrace
+# Log file: C:/Users/haoxu/Documents/m152a/counter/4bit_counter.runs/impl_1/clk_1m_1.vdi
+# Journal file: C:/Users/haoxu/Documents/m152a/counter/4bit_counter.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source clk_1m_1.tcl -notrace

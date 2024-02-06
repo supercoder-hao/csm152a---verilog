@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/haoxu/Documents/m152a/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/basys3.v,1706213802,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/tb/model_uart.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,basys3,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_add.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,seq,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_add.v,1705435655,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_alu.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,seq_add,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_alu.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_mult.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,seq_alu,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,1705435656,verilog,,,,,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_mult.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_rf.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,seq_mult,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_rf.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,seq_rf,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart_fifo.v,,uart,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart_fifo.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart_top.v,,uart_fifo,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/uart_top.v,1705435656,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/tb/tb.v,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq_definitions.v,uart_top,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/tb/model_uart.v,1705622533,verilog,,C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/rtl/seq.v,,model_uart,,,,,,,,
+C:/Users/haoxu/Downloads/Lab1/Lab1/Src_lab1/tb/tb.v,1706214916,verilog,,,,tb,,,,,,,,

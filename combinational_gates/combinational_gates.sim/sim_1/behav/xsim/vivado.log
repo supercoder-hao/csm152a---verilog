@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jan 13 18:55:37 2024
+# Process ID: 16132
+# Current directory: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8860 C:\Users\haoxu\Documents\m152a\combinational_gates\combinational_gates.sim\sim_1\behav\xsim\combinational_gates_muxed_tb_behav.wdb
+# Log file: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\haoxu\Documents\m152a\combinational_gates\combinational_gates.sim\sim_1\behav\xsim\combinational_gates_muxed_tb_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jan 13 18:56:08 2024...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jan 13 18:17:41 2024
+# Process ID: 15236
+# Current directory: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.runs/synth_1
+# Command line: vivado.exe -log combinational_gates_muxed_tb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source combinational_gates_muxed_tb.tcl
+# Log file: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.runs/synth_1/combinational_gates_muxed_tb.vds
+# Journal file: C:/Users/haoxu/Documents/m152a/combinational_gates/combinational_gates.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source combinational_gates_muxed_tb.tcl -notrace
