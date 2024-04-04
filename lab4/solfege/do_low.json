@@ -1,0 +1,58 @@
+{
+  "header": {
+    "keySignatures": [],
+    "meta": [],
+    "name": "",
+    "ppq": 46,
+    "tempos": [
+      {
+        "bpm": 120,
+        "ticks": 0
+      }
+    ],
+    "timeSignatures": []
+  },
+  "tracks": [
+    {
+      "channel": 0,
+      "controlChanges": {},
+      "pitchBends": [],
+      "instrument": {
+        "family": "piano",
+        "number": 0,
+        "name": "acoustic grand piano"
+      },
+      "name": "",
+      "notes": [
+        {
+          "duration": 0.3695652173913043,
+          "durationTicks": 34,
+          "midi": 60,
+          "name": "C4",
+          "ticks": 0,
+          "time": 0,
+          "velocity": 0.000033858267716535434
+        },
+        {
+          "duration": 0.3804347826086957,
+          "durationTicks": 35,
+          "midi": 72,
+          "name": "C5",
+          "ticks": 0,
+          "time": 0,
+          "velocity": 0.00003543307086614173
+        },
+        {
+          "duration": 0.28260869565217395,
+          "durationTicks": 26,
+          "midi": 88,
+          "name": "E6",
+          "ticks": 1,
+          "time": 0.010869565217391304,
+          "velocity": 0.000013385826771653545
+        }
+      ],
+      "endOfTrackTicks": 35
+    }
+  ]
+}

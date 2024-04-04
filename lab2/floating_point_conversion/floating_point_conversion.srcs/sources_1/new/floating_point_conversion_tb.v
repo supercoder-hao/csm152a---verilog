@@ -29,6 +29,8 @@ module floating_point_conversion_tb;
     wire [2:0] E;
     wire [3:0] F;
 
+    integer i;
+    reg [11:0] testcase [0:1023];
 	// you need to init the module being tested and link the parameters
 	fpcvt UUT (
 		.D(D),
@@ -38,20 +40,33 @@ module floating_point_conversion_tb;
 	);
     // Start the testbench
 	initial begin
-		//Modify the input
-//        D = 12'b111001011010;
-//        D = 12'b000000101110;
+//		Modify the input
+//        D = 12'b100000000000;
+//        #10;
+//        $display ("original in_D value is %b", D);
+//        #10;
+//        $display("Output is %b, %b, %b", S, E, F);
+//        #10;
+//        D = 12'b100000000001;
+//        #10;
+//        $display ("original in_D value is %b", D);
+//        #10;
+//        $display("Output is %b, %b, %b", S, E, F);
 //        D = 12'b111111111111;
 //        D = 12'b100000000000;
 //        D = 12'b011111111111;
-        D = 12'b111001011010;
-        $display ("original in_D value is %b", D);
-        //Wait for 10ns
-        #10;
-        //Print the output
-        $display("Output is %b, %b, %b", S, E, F);
+//        D = 12'b000000111111;
+        $readmemb("test.code", testcase);
+        for (i = 1; i <= testcase[0]; i = i+1) begin
+            D = testcase[i];
+            #10
+            $display("D value is %b", D);
+            #10
+            $display("Output is %b, %b, %b", S, E, F);
+        end
+
         
-        #1000
+        #10000
         $finish;
 	end
       

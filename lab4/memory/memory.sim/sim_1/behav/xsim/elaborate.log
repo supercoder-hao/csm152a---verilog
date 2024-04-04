@@ -1,0 +1,16 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 60eefdb1fc2649adb26c0a1f9486c2b9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot memory_behav xil_defaultlib.memory xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port slow_clk [C:/Users/haoxu/Documents/m152a/lab4/memory/memory.srcs/sources_1/new/memory.v:64]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port slow_clk [C:/Users/haoxu/Documents/m152a/lab4/memory/memory.srcs/sources_1/new/memory.v:65]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port slow_clk [C:/Users/haoxu/Documents/m152a/lab4/memory/memory.srcs/sources_1/new/memory.v:66]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.delay_chk
+Compiling module xil_defaultlib.memory
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot memory_behav

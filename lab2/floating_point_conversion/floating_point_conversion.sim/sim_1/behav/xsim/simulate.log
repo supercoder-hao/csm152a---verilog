@@ -1,5 +1,48 @@
 Vivado Simulator 2018.2
 Time resolution is 1 ps
-original in_D value is 111001011010
-in_D value is 110100110000
-Output is 1, 101, 1101
+D value is 100000000000
+Output is 1, 111, 1111
+D value is 100000000001
+Output is 1, 111, 1000
+D value is 111111111111
+Output is 1, 000, 0001
+D value is 000000000000
+Output is 0, 000, 0000
+D value is 011111111111
+Output is 0, 111, 1111
+D value is 000000001111
+Output is 0, 000, 1111
+D value is 000000001000
+Output is 0, 000, 1000
+D value is 000000001100
+Output is 0, 000, 1100
+D value is 000000001101
+Output is 0, 000, 1101
+D value is 000000001010
+Output is 0, 000, 1010
+D value is 000000001001
+Output is 0, 000, 1001
+D value is 000000000111
+Output is 0, 000, 0111
+D value is 000000000110
+Output is 0, 000, 0110
+D value is 000000000101
+Output is 0, 000, 0101
+D value is 000000000011
+Output is 0, 000, 0011
+D value is 000000000010
+Output is 0, 000, 0010
+D value is 000000000001
+Output is 0, 000, 0001
+D value is 100000000011
+Output is 1, 000, 1101
+D value is 100000000111
+Output is 1, 000, 1001
+D value is 100000001111
+Output is 1, 000, 0001
+D value is 101000001111
+Output is 1, 000, 0001
+D value is 111111000000
+Output is 1, 000, 0000
+D value is 000000111111
+Output is 0, 000, 1111

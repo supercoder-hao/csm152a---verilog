@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Mar 17 21:42:10 2024
+# Process ID: 11956
+# Current directory: C:/Users/haoxu/Documents/m152a/lab4/memory
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14488 C:\Users\haoxu\Documents\m152a\lab4\memory\memory.xpr
+# Log file: C:/Users/haoxu/Documents/m152a/lab4/memory/vivado.log
+# Journal file: C:/Users/haoxu/Documents/m152a/lab4/memory\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/haoxu/Documents/m152a/lab4/memory/memory.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:08 . Memory (MB): peak = 889.965 ; gain = 142.555
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Mar 17 22:06:12 2024...
